@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectViewComponent</string>
+    <string name="hint_email_input">Email</string>
+</resources>
